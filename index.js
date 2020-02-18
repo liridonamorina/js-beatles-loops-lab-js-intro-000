@@ -21,7 +21,7 @@ function johnLennonFacts(arrayOfFacts)
     newArray.push(string);
     i++;
   }
-  return string;
+  return newArray;
 }
 
 function iLoveTheBeatles(num){
