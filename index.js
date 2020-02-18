@@ -26,7 +26,7 @@ function iLoveTheBeatles(num){
 
   var newArray = [];
   var string = "";
-  
+
   do {
     string = "I love the Beatles!";
     num++;
