@@ -26,12 +26,12 @@ function iLoveTheBeatles(num){
 
   var newArray = [];
   var string = "";
-  var i = 0;
+  
   do {
     string = "I love the Beatles!";
-    i++;
+    num++;
   }
-  while(i < num){
+  while(num < 15){
     newArray.push(string)
   }
 return newArray;
