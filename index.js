@@ -29,11 +29,13 @@ function iLoveTheBeatles(num){
 
   do {
     string += "I love the Beatles!";
-    newArray.push(string)
+    
     num++;
   }
   while(num < 15){
-    return newArray;
+    newArray.push(string)
   }
+  
+  return newArray;
 
 }
