@@ -13,9 +13,9 @@ function theBeatlesPlay(arrayOfM, arrayOfI)
 
 function johnLennonFacts(arrayOfFacts)
 {
-  var i = 0;
   let string = "";
   var newArray = [];
+  var i = 0;
   while(i < arrayOfFacts.length ){
     string = `${arrayOfFacts[i]}!!!`;
     newArray.push(string);
