@@ -18,6 +18,7 @@ function johnLennonFacts(arrayOfFacts)
   var newArray = [];
   while(i < arrayOfFacts.length ){
     string = `${arrayOfFacts[i]}!!!`;
+    newArray.push(string);
     i++;
   }
   return string;
