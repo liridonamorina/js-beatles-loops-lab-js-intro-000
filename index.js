@@ -28,7 +28,7 @@ function iLoveTheBeatles(num){
   var string = "";
   var i = 0;
   do {
-    string = "I love Beatles!";
+    string = "I love the Beatles!";
     i++;
   }
   while(i < num){
